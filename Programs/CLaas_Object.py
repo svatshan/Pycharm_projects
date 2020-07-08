@@ -1,4 +1,5 @@
 ###Hai
+###second_line_added
 class Computer:
 
     def __init__(self,cpu,ram):

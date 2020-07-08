@@ -1,3 +1,4 @@
+###Hai
 class Computer:
 
     def __init__(self,cpu,ram):
